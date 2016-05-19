@@ -1,0 +1,3 @@
+//CSS Notes
+
+* This "nth-child" pseudo class selector example "p:nth-child(3)" will target p which is the third child of its parent, not 3rd p child of its parent.
