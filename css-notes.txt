@@ -7,3 +7,7 @@
 * In "display:inline" property, all the elements are placed in same line but they dont keep their dimension, to be able to have their dimension we need to use "display:inline-block". Inline value is suitable for the elements which are blocks by default, such as headers and paragraphs.
 
 * If an element is positioned absolute this element will position itself according to its parent which has position absolute. if there is no such element it will position according to outermost element, i.e. HTML.
+
+* If an element is positioned relative, it would position itself according to the position it would otherwise have been. 
+
+* "clear" property of css is used to make a div or any element steer clear of any of the element on its either side, its valid value can be "left", "right" or "both"
