@@ -3,3 +3,5 @@
 * This "nth-child" pseudo class selector example "p:nth-child(3)" will target p which is the third child of its parent, not 3rd p child of its parent.
 
 * CSS-Box-Model: https://s3.amazonaws.com/codecademy-blog/assets/ae09140c.png
+
+* In "display:inline" property, all the elements are placed in same line but they dont keep their dimension, to be able to have their dimension we need to use "display:inline-block" 
