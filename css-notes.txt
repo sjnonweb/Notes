@@ -4,4 +4,6 @@
 
 * CSS-Box-Model: https://s3.amazonaws.com/codecademy-blog/assets/ae09140c.png
 
-* In "display:inline" property, all the elements are placed in same line but they dont keep their dimension, to be able to have their dimension we need to use "display:inline-block" 
+* In "display:inline" property, all the elements are placed in same line but they dont keep their dimension, to be able to have their dimension we need to use "display:inline-block". Inline value is suitable for the elements which are blocks by default, such as headers and paragraphs.
+
+* If an element is positioned absolute this element will position itself according to its parent which has position absolute. if there is no such element it will position according to outermost element, i.e. HTML.
