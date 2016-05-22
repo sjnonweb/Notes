@@ -11,3 +11,5 @@
 * If an element is positioned relative, it would position itself according to the position it would otherwise have been. 
 
 * "clear" property of css is used to make a div or any element steer clear of any of the element on its either side, its valid value can be "left", "right" or "both"
+
+*
