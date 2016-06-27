@@ -12,4 +12,4 @@
 
 * "clear" property of css is used to make a div or any element steer clear of any of the element on its either side, its valid value can be "left", "right" or "both"
 
-*
+* Not all CSS properties are inherited, because it doesn’t make sense for some of them to be. For instance, margins are not inherited, since it’s unlikely that a child element should need the same margins as its parent. e.g. body has a margin specified by default.
