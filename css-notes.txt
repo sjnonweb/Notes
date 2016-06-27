@@ -15,3 +15,9 @@
 * Not all CSS properties are inherited, because it doesn’t make sense for some of them to be. For instance, margins are not inherited, since it’s unlikely that a child element should need the same margins as its parent. e.g. body has a margin specified by default.
 
 * Inline elements cannot be center aligned e.g. <img> is an inline element. We can center it by changing it to a block element that is by adding this property to <img>: "display: block"
+
+* Inline elements by default have a margin while block elements dont
+
+* With all the inline elements margin is applied only to the left and right side, <img> being an exception while in case of block elemens margin is applied to all the sides.
+
+* Inline elements will have an added margin of both the elements that is the margin of itself added with the margin of element it is being margined from. While block element will only have the margin which is larger of two.
