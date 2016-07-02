@@ -25,3 +25,9 @@
 * inline-block property is hybrid between inline and block. inline-block element will get height and width property of block element but it will not create a new line before and after it, that is it is inheriting inline property here.
 
 * nth-child pseudo selector: nth-child(odd),nth-child(even), nth-child(2),nth-child(2n),nth-child(2n+3)="start out with selecting 3rd element and then select every 2nd element after that"
+
+* rgba() stands for red,green,blue,alpha. where alpha is opacity.
+
+* text-shadow, box-shadow
+
+* linear-gradient
