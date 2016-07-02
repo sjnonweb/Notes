@@ -21,3 +21,5 @@
 * With all the inline elements margin is applied only to the left and right side, <img> being an exception while in case of block elemens margin is applied to all the sides.
 
 * Inline elements will have an added margin of both the elements that is the margin of itself added with the margin of element it is being margined from. While block element will only have the margin which is larger of two.
+
+* inline-block property is hybrid between inline and block. inline-block element will get height and width property of block element but it will not create a new line before and after it, that is it is inheriting inline property here.
