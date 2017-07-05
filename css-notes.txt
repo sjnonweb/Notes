@@ -31,3 +31,6 @@
 * text-shadow, box-shadow
 
 * linear-gradient
+
+* box-sizing: border-box will keep the border width included in the total width for that perticular box.
+
